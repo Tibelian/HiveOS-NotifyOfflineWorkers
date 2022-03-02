@@ -3,7 +3,7 @@
 // load configuration
 $config = [];
 try {
-    $config = json_decode(file_get_contents('include/config.json'), true);
+    $config = json_decode(@file_get_contents('include/config.json'), true);
 }
 catch(Exception $e) {
     echo 'ERROR CONFIG FILE';
