@@ -1,0 +1,13 @@
+{
+    "host": "smtp.gmail.com",
+    "auth": true,
+    "name": "BOT Miner",
+    "username": "test@gmail.com",
+    "password": "secret",
+    "encryption": "tls",
+    "port": 587,
+    "recipients": [
+        "foo@gmail.com",
+        "bar@gmail.com"
+    ]
+}

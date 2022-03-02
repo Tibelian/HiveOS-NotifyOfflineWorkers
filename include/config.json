@@ -1,0 +1,6 @@
+{
+    "token": "SECRET HIVEOS API KEY",
+    "farmId": "YOUR HIVEOS FARM ID",
+    "apiUrl": "https://api2.hiveos.farm/api/v2",
+    "timeToNotify": "5 minutes"
+}
